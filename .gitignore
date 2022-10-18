@@ -5,3 +5,10 @@
 ./test.csv
 
 ./train.csv
+
+
+.cache/
+.ipynb_checkpoints/
+./EDA_prediction.csv
+./kobert_base.csv
+./sample_submission.csv
